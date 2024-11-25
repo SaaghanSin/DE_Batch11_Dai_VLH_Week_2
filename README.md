@@ -145,7 +145,15 @@ d. Use cases:
     
     - Example: Storing raw data in an Azure Data Lake and performing transformations using Spark only for specific analytical queries.
 
-[Ex3:]
+[Ex3:] 
+### **Simple ETL Pipeline Using Apache Airflow and AWS Integration**
+
+This guide provides steps to set up and run a simple ETL pipeline using Apache Airflow with Docker Compose and AWS integration.
+
+**Prerequisites**
+- Docker and Docker Compose: Make sure Docker and Docker Compose are installed on your system.
+- AWS Credentials: Have access to your AWS Access Key and Secret Key.
+- .env File: Configure the .env file with your AWS credentials and any other required environment variables.
 
 [Ex4:]
 # Ex4:
